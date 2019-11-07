@@ -1,5 +1,7 @@
 # Android Library Template
 
+[![Android CI status](https://github.com/zhanghai/AndroidLibraryTemplate/workflows/Android%20CI/badge.svg)](https://github.com/zhanghai/AndroidLibraryTemplate/actions)
+
 An Android library template.
 
 ## Integration
