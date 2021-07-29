@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 30
-    buildToolsVersion '30.0.2'
+    buildToolsVersion '31.0.0'
     defaultConfig {
         applicationId 'me.zhanghai.android.librarytemplate.sample'
         minSdkVersion 21
