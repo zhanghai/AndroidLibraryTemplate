@@ -1,6 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
+    namespace 'me.zhanghai.android.librarytemplate.sample'
     compileSdkVersion 33
     buildToolsVersion '33.0.0'
     defaultConfig {
