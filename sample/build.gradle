@@ -2,12 +2,12 @@ apply plugin: 'com.android.application'
 
 android {
     namespace 'me.zhanghai.android.librarytemplate.sample'
-    compileSdkVersion 33
-    buildToolsVersion '33.0.0'
+    compileSdk 34
+    buildToolsVersion = '34.0.0'
     defaultConfig {
         applicationId 'me.zhanghai.android.librarytemplate.sample'
-        minSdkVersion 21
-        targetSdkVersion 33
+        minSdk 21
+        targetSdk 34
         versionCode Integer.parseInt(VERSION_CODE)
         versionName VERSION_NAME
     }
